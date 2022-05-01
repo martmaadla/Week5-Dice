@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Dice\Dice\bin\Debug\Dice.exe.config
+C:\Users\User\source\repos\Dice\Dice\bin\Debug\Dice.exe
+C:\Users\User\source\repos\Dice\Dice\bin\Debug\Dice.pdb
+C:\Users\User\source\repos\Dice\Dice\obj\Debug\Dice.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Dice\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dice\Dice\obj\Debug\Dice.exe
+C:\Users\User\source\repos\Dice\Dice\obj\Debug\Dice.pdb
+C:\Users\mart.maadla\source\repos\Dice\Dice\bin\Debug\Dice.exe.config
+C:\Users\mart.maadla\source\repos\Dice\Dice\bin\Debug\Dice.exe
+C:\Users\mart.maadla\source\repos\Dice\Dice\bin\Debug\Dice.pdb
+C:\Users\mart.maadla\source\repos\Dice\Dice\obj\Debug\Dice.csproj.AssemblyReference.cache
+C:\Users\mart.maadla\source\repos\Dice\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+C:\Users\mart.maadla\source\repos\Dice\Dice\obj\Debug\Dice.exe
+C:\Users\mart.maadla\source\repos\Dice\Dice\obj\Debug\Dice.pdb
